@@ -1,0 +1,22 @@
+#idcal{
+
+    border: 2px solid rgb(219, 216, 216);
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(219, 219, 207);
+}
+#display{
+    margin: 10px ;
+    width: 85%;
+    height: 25px;
+}
+.class-button{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    width:45px;
+    height: 45px;
+    margin: 4px;
+}
